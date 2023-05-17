@@ -1,0 +1,34 @@
+<button>
+  Click
+</button>
+
+<button>
+  Daksh
+</button>
+
+<Button>
+  Chips
+</Button>
+
+<p>Hello World!!</p>
+
+<p>I went for basket ball summer camp at my school </p>
+
+<a href="https://www.google.com/" target="_blank">GOoGLE</a>
+<a href="https://www.amazon.com/">Back to Amazon</a>
+
+<p>
+  Nike Air jordan 1
+</p>
+<p>
+  $100
+</p>
+<p>
+  Free delivery 
+</p>
+<button>
+  Add to Cart
+</button>
+<Button>
+  Buy Now
+</Button>
